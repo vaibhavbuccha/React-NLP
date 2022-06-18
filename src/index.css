@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+   background: rgb(2, 26, 67);
+  font-family: 'ProximaNova';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

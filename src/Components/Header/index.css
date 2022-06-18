@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    justify-content: center
+}
+.white-color{
+    color: #fff
+}
+
+.input{
+    background: #fcfcfc;
+    color: rgb(252, 252, 94) !important;
+    border-radius: 10px;
+}
